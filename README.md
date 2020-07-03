@@ -1,4 +1,4 @@
-# This is an application which displays Dashboard with Employee Details after successful Login. The application starts with the Login page, after successful login, the list of employees is displayed in tabular form. Logout option is also available to return to login page.
+### This is an application which displays Dashboard with Employee Details after successful Login. The application starts with the Login page, after successful login, the list of employees is displayed in tabular form. Logout option is also available to return to login page.
 
 In the project directory, you can run: 
 
