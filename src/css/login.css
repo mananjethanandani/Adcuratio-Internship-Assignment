@@ -1,0 +1,41 @@
+.login-main{
+    align-items: center;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.login-email{
+    margin-top: 1rem;
+
+}
+
+.email-input{
+
+    padding: 12px 20px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid rgb(166, 183, 229);
+    box-sizing: border-box;
+}
+
+.password-input{
+    padding: 12px 20px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid rgb(166, 183, 229);
+    box-sizing: border-box;
+}
+
+
+.login-password{
+    margin-top: 1rem;
+
+}
+.login-button{
+    background-color: rgb(96,132,228);
+    color: white;
+    padding: 14px 20px;
+    margin: 4px 0;
+    border: none;
+    cursor: pointer;
+}

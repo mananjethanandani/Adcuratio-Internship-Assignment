@@ -1,0 +1,12 @@
+.dashboard-button{
+    text-align: center;
+}
+
+.logout-button{
+        background-color: rgb(96,132,228);
+        color: white;
+        padding: 14px 20px;
+        margin: 4px 0;
+        border: none;
+        cursor: pointer;
+}
